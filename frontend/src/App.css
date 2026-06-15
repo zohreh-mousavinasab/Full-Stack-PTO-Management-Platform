@@ -1,0 +1,18 @@
+.shadow-soft {
+  box-shadow: 0 24px 80px rgba(2, 6, 23, 0.32);
+}
+
+.backdrop-card {
+  backdrop-filter: blur(18px);
+}
+
+.glass-border {
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.gradient-grid {
+  background-image:
+    radial-gradient(circle at top left, rgba(34, 211, 238, 0.16), transparent 30%),
+    radial-gradient(circle at bottom right, rgba(232, 121, 249, 0.12), transparent 32%);
+}
+
